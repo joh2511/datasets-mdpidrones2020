@@ -1,9 +1,20 @@
 # Datasets Journal Article MDPI Drones 2020 
 
-Datasets for the Journal Article `Reliable Long Range Multi-Link Communication for Unmanned Search and Rescue Aircraft Systems in Beyond Visual Line of Sight Operation` submitted to MDPI Drones.
+## License
+The underlying work is published under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The related publication is:
 
 ```
-Index Location Mission Start Stop
+J. Güldenring, P. Gorczak, F. Eckermann, M. Patchou, F. Kurtz, and C. Wietfeld, “Reliable
+Long Range Multi-Link Communication for Unmanned Search and Rescue Aircraft Systems in
+Beyond Visual Line of Sight Operation,” Submitted to Drones, Mar. 2020.
+```
+
+
+## Dataset
+Threre are 5 different datasets published: 
+
+```
+Index Location        Mission                    Start               Stop
 1   Peenemünde        Single Link                2019-08-22 07:17:54 2019-08-22 08:19:11
 2a  Peenemünde        Long Range                 2019-09-14 09:20:25 2019-09-14 10:04:34
 2b  Peenemünde        SAR Mission                2019-09-14 10:15:25 2019-09-14 10:25:24
